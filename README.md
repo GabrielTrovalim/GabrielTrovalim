@@ -4,7 +4,7 @@ Projetos de estudo: <br>
 <ul>
   <li>https://gabrieltrovalim.github.io/projeto-curiosidades/ </li> 
   <li>https://gabrieltrovalim.github.io/show/ </li>
-  <li></li>
+  <li>https://gabrieltrovalim.github.io/Projeto_cordel/</li>
 </ul>
 <!---
 GabrielTrovalim/GabrielTrovalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
