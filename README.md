@@ -3,7 +3,7 @@ Olá, meu nome é Gabriel Trovalim e eu estou aprendendo sobre HTML5, CSS3 e Pyt
 Projetos de estudo: <br>
 <ul>
   <li>https://gabrieltrovalim.github.io/projeto-curiosidades/</li> 
-  <li>https://gabrieltrovalim.github.io/show/</li>
+  <li>https://gabrieltrovalim.github.io/Projeto-idh/</li>
   <li>https://gabrieltrovalim.github.io/Projeto_cordel/</li>
 </ul>
 <!---
