@@ -11,6 +11,7 @@
 
 ### Projetos de estudo: <br>
 <ul>
+  <li>https://gabrieltrovalim.github.io/redes-sociais/ Minhas redes 😎</li>
   <li>https://gabrieltrovalim.github.io/projeto-curiosidades/</li> 
   <li>https://gabrieltrovalim.github.io/Projeto-idh/</li>
   <li>https://gabrieltrovalim.github.io/Projeto_cordel/</li>
