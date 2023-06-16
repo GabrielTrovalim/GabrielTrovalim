@@ -1,4 +1,4 @@
-# Olá, meu nome é Gabriel Trovalim 😃, sou um programador iniciante.
+# Olá, meu nome é Gabriel Trovalim 😃.
 ### 📚 Estudando, JavaScript e Python.
 
 <div style="display: inline_block">
